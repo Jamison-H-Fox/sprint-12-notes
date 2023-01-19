@@ -1,1 +1,1 @@
-#Notes from Sprint 12, Bloom Institute of Technology
+# Notes from Sprint 12, Bloom Institute of Technology
